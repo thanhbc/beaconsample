@@ -43,7 +43,7 @@ Beacons broadcast in regular intervals. They send out their ID and ID consist th
 Demo 
 ---------------
 You can buy an beacon or [turn your mac into a beacon] (http://beekn.net/2013/11/turn-your-mac-into-a-bluetooth-beacon/) or iphone, ipad also. 
-Unfortunately, I don't have any beacon or mac now :( but already order beacon and with give you the simple demo about this on June 7 2015. So keep calm and stay turn!
+Unfortunately, I don't have any beacons or mac now :( but already order beacon and will give you the simple demo on June 7 2015. So keep calm and stay turn!
 
 Reference 	
 ---------------
