@@ -43,7 +43,9 @@ Beacons broadcast in regular intervals. They send out their ID and ID consist th
 Demo 
 ---------------
 You can buy an beacon or [turn your mac into a beacon] (http://beekn.net/2013/11/turn-your-mac-into-a-bluetooth-beacon/) or iphone, ipad also. 
-Unfortunately, I don't have any beacons or mac now :( but already order beacon and will give you the simple demo on June 7 2015. So keep calm and stay turn!
+Unfortunately, I don't have any beacons or mac now :( but already order beacon and will give you the simple demo on June 7 2015. Make sure you have devices support for Bluetooth LE or you can test this. Zenfone 5 is will OK. So keep calm and stay turn! Below image is my tablet do not support for bluetooth LE so my app didn't work.
+
+![ScreenShot] https://dl.dropboxusercontent.com/s/tisa82l8nag8gu6/Screenshot_2015-06-01-18-46-11.png
 
 Reference 	
 ---------------
