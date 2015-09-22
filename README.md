@@ -38,7 +38,9 @@ Beacons broadcast in regular intervals. They send out their ID and ID consist th
     3. minor (e.g. location in store)
 	
 ![ScreenShot] (http://www.codemag.com/Article/Image/1405051/image2.png)
-![ScreenShot](http://reco2.me/wp-content/uploads/Bluetooth-Beacon-How-Infographic-984x1024.jpg)
+![ScreenShot](http://blog.reco2.me/wp-content/uploads/2015/01/Bluetooth-Beacon-How-Infographic.jpg)
+![ScreenShot](http://image.slidesharecdn.com/aretailersguidetoibeaconmarketingdeckkkdmms-140409102017-phpapp01/95/a-retailers-guide-to-ibeacon-marketing-37-638.jpg?cb=1397038906)
+
 
 Demo 
 ---------------
